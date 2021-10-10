@@ -1,7 +1,7 @@
 {
-  "name": "تليثون العرب",
-  "description": "اهلا بك في تنصيب تليثون العرب لمتابعه قناتنا : https://t.me/iqthon ",
-  "logo": "https://telegra.ph/file/25917eb62d664deffa22b.jpg",
+  "name": "داركثون ياب",
+  "description": "اهلا بك في تنصيب داركثون لمتابعه قناتنا : @riothon ",
+  "logo": "https://telegra.ph/file/5e0bc8940c6a801c0bdb4.jpg",
   "keywords": [
     "plugin",
     "modular",
@@ -41,7 +41,7 @@
       "required": false
     },
     "HEROKU_API_KEY": {
-      "description": "ضع كود هيروكوان لم تعرفها يوجد هنا شرحها https://t.me/teamtelethon/14",
+      "description": "ضع ايبي هيركو",
       "value": "",
       "required": false
     },
