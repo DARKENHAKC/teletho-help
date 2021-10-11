@@ -57,7 +57,7 @@
     },
     "UPSTREAM_REPO": {
       "description": "رابط السورس عربي : Telethon-Ar  ",
-      "value": "Telethon-Ar",
+      "value": "https://github.com/DARKENHAKC/BOT",
       "required": false
     }
   },
